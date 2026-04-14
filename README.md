@@ -3,7 +3,7 @@
 Investment Policy Statement developed for an individual client portfolio, defining investment objectives, risk tolerance, and long-term strategy.
 
 ## Overview
-This project focuses on portfolio construction and strategic asset allocation using Modern Portfolio Theory.
+This project focuses on portfolio construction and strategic asset allocation using Modern Portfolio Theory. It combines financial theory and practical portfolio construction techniques.
 
 ## Key Components
 - Asset allocation strategy

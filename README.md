@@ -16,3 +16,5 @@ This project focuses on portfolio construction and strategic asset allocation us
 ## Files
 - PDF report (Investment Policy Statement)
 - Excel model supporting portfolio analysis
+## Note
+This project was developed as part of an academic assignment. I contributed to portfolio analysis, asset allocation, and investment strategy.
